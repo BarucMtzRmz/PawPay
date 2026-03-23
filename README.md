@@ -9,6 +9,11 @@ En ciudades como Querétaro, el rescate animal depende de la buena voluntad de l
 🚀 La Solución: PawPay
 PawPay es una plataforma de recaudación de fondos construida sobre la blockchain de Solana, diseñada para ofrecer transparencia radical y eficiencia operativa a los refugios de animales.
 
+🌐 Demo en Vivo (Frontend Showcase)
+> **¡Experimenta el flujo de donación y emisión de cNFTs de PawPay!**
+> 
+> [🔗 Abrir Demo Interactiva en StackBlitz](https://stackblitz.com/edit/vitejs-vite-p6o2kszr?file=src%2FApp.jsx](https://vitejsvitep6o2kszr-pr10--5173--4c73681d.local-credentialless.webcontainer.io)
+
 Características Principales:
 Estabilidad con USDC: Las donaciones se procesan en USDC para proteger a los refugios de la volatilidad del mercado, asegurando que el presupuesto para alimento y medicinas sea predecible.
 
