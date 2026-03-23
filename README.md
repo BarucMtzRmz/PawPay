@@ -14,10 +14,10 @@ PawPay es una plataforma de recaudación de fondos construida sobre la blockchai
 > 
 > [▶️ Haz clic aquí para ver el video en Loom](https://www.loom.com/share/fcf3dd219c284138a917240edd347560)
 
-🌐 Demo en Vivo (Frontend Showcase)
+### 🌐 Demo en Vivo (Frontend Showcase)
 > **¡Experimenta el flujo de donación y emisión de cNFTs de PawPay!**
 > 
-> [🔗 Abrir Demo Interactiva en StackBlitz] (https://stackblitz.com/edit/vitejs-vite-p6o2kszr?file=src%2FApp.jsx)
+> [🔗 Abrir Demo Interactiva en StackBlitz](https://stackblitz.com/edit/vitejs-vite-p6o2kszr?file=src%2FApp.jsx)
 
 Características Principales:
 Estabilidad con USDC: Las donaciones se procesan en USDC para proteger a los refugios de la volatilidad del mercado, asegurando que el presupuesto para alimento y medicinas sea predecible.
