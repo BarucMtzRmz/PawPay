@@ -92,4 +92,5 @@ Gobernanza: Permitir que los donantes voten en qué se gasta el fondo común (ej
 👤 Autor
 
 José Baruc Martínez Ramírez
+
 Estudiante de Ingeniería en Sistemas Computacionales (UVEG), entusiasta de la tecnología Blockchain y del desarrollo de software con impacto social.
