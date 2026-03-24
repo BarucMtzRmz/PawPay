@@ -22,6 +22,7 @@ PawPay es una plataforma de recaudación de fondos construida sobre la blockchai
 > 
 > [🔗 Abrir Demo Interactiva en StackBlitz](https://stackblitz.com/edit/vitejs-vite-p6o2kszr?file=src%2FApp.jsx)
 
+
 Características Principales:
 
 Estabilidad con USDC: Las donaciones se procesan en USDC para proteger a los refugios de la volatilidad del mercado, asegurando que el presupuesto para alimento y medicinas sea predecible.
@@ -29,6 +30,7 @@ Estabilidad con USDC: Las donaciones se procesan en USDC para proteger a los ref
 Impact Receipts (cNFTs): Cada donante recibe un Certificado de Impacto digital utilizando Solana State Compression. Esto permite incentivar la ayuda con costos de red insignificantes.
 
 Trazabilidad On-chain: Cada peso (token) puede ser rastreado desde la wallet del donante hasta la bóveda del refugio a través de la ledger pública de Solana.
+
 
 🛠️ Stack Tecnológico
 
@@ -40,6 +42,7 @@ Compresión: Lógica de cNFTs preparada para Metaplex Bubblegum.
 
 Entorno: Solana Playground / Devnet.
 
+
 📊 Evidencia Técnica (Demo)
 
 Program ID en Devnet:
@@ -49,6 +52,7 @@ Transacciones de Prueba:
 Creación de Campaña: https://explorer.solana.com/tx/537SqepEXnJkYWntBJYwYB473ideb7HjcnfCKRtvGdKSv1EhhkzizZj52PewBX6uBWUtTbUvZSWEDiQsgm8u9JUZ?cluster=devnet
 
 Donación Exitosa: https://explorer.solana.com/tx/38AKMcikCNwb36n6KdNptFcj7XAKdyWfMfAJZQs5nyCRYSoErQ7xBPZqVeP8XHEYbH1HQrjrT33Hyi39RpsfWsmf?cluster=devnet
+
 
 💻 Instrucciones para Desarrolladores
 
@@ -75,6 +79,7 @@ Ejemplo de Salida en Terminal:
 
 ✅ cNFT emitido exitosamente! (State Compression)
 
+
 📈 Visión a Futuro
 
 Integración de Blinks: Permitir que los refugios compartan links de donación directa en X (Twitter) mediante Solana Actions.
@@ -82,6 +87,7 @@ Integración de Blinks: Permitir que los refugios compartan links de donación d
 Dashboard para Refugios: Una interfaz web sencilla donde los rescatistas de Querétaro puedan gestionar sus metas.
 
 Gobernanza: Permitir que los donantes voten en qué se gasta el fondo común (ej. alimento vs. cirugías).
+
 
 👤 Autor
 
