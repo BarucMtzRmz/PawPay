@@ -64,10 +64,15 @@ run
 Ejemplo de Salida en Terminal:
 
 🚀 Iniciando pruebas de PawPay...
+
 ✅ Campaña creada exitosamente!
+
 💰 Intentando donar 10 USDC...
+
 ✅ Donación completada!
+
 🎨 Generando Certificado de Impacto (cNFT)...
+
 ✅ cNFT emitido exitosamente! (State Compression)
 
 📈 Visión a Futuro
